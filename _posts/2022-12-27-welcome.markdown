@@ -11,3 +11,5 @@ Nulla da dire, a parte ...
 ... **si, può, fare!**
 
 (qualche info su questo coso si può trovare [qui](/about))
+
+_(questa riga invece è stata inserita dal cellulare con Spck Editor che ha tra l'altro Git integrato)_
