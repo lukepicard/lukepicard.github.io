@@ -7,3 +7,5 @@ categories: info
 Nulla da dire, a parte ...
 
 ... **si, può, fare!**
+
+(qualche info su questo coso si può trovare [qui](/about))
