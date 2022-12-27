@@ -13,3 +13,5 @@ Nulla da dire, a parte ...
 (qualche info su questo coso si può trovare [qui](/about))
 
 _(questa riga invece è stata inserita dal cellulare con Spck Editor che ha tra l'altro Git integrato)_
+
+![Screenshot da Android](/assets/ide_android.jpeg)
